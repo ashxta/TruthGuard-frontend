@@ -98,7 +98,7 @@ const ContentAnalyzer = () => {
             <span className="gradient-text">Content Analyzer</span>
           </h2>
           <p className="text-xl text-foreground/70">
-            Verify text, images, or URLs instantly
+            Verify news, images, or URLs instantly
           </p>
         </div>
 
@@ -116,7 +116,7 @@ const ContentAnalyzer = () => {
                     className="data-[state=active]:bg-primary data-[state=active]:text-primary-foreground"
                   >
                     <FileText className="w-4 h-4 mr-2" />
-                    Text Analysis
+                    News Analysis
                   </TabsTrigger>
                   <TabsTrigger
                     value="image"
